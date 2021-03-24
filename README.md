@@ -1,6 +1,9 @@
 # Аdvanced_MP
  Аdvanced_MP - is the minecraft server monitoring parser
 
+# Version: 1.1
+ Added "Advanced options"
+
 # Version: 1.0
  The repository was added to GitHub
 
